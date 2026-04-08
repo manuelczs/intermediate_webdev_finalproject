@@ -1,0 +1,11 @@
+theia@theia-manuelczs:/home/project/intermediate_webdev_finalproject$ npx jasmine init
+theia@theia-manuelczs:/home/project/intermediate_webdev_finalproject$ npx jasmine
+Randomized with seed 83039
+Started
+
+
+No specs found
+Finished in 0.002 seconds
+Incomplete: No specs found
+Randomized with seed 83039 (jasmine --random=true --seed=83039)
+theia@theia-manuelczs:/home/project/intermediate_webdev_finalproject$ 
