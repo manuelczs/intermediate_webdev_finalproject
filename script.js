@@ -7,7 +7,7 @@ const calculate = () => {
 
   let result = document.getElementById("result");
 
-  result.innerHTML = `<div>Principal Amount: <span>${p.toFixed(2)}</span></div>
+  result.innerHTML = `<div>Principal Amount: <span>${parseInt(p).toFixed(2)}</span></div>
   <div>Total Interest: <span>${simpleInterest.toFixed(2)}</span></div>
   <div>Total Amount: <span>${amount.toFixed(2)}</span></div>`;
 };
